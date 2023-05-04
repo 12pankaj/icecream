@@ -1,0 +1,343 @@
+.top{
+	background:#f88cb4  ;
+	color: white;
+	width: 100%;
+}
+header div{
+	display: inline-block;
+	font-size: 20;
+}
+.meic{
+	position:relative ;
+	left: 800px;
+
+}
+.meic i{
+	margin: 20px;
+}
+.mete a{
+	margin-left: 20px;
+	padding-right:5px ;
+	border-right:2px solid white ;
+}
+.menu{
+	background: white;
+	color: black;
+	padding: 10px;
+	border-radius: 50px  ;
+	position: relative;
+	top: 40px;
+	font-size: 30px;
+	left: -220px;
+	margin: 0px;
+}
+.menu a{
+	text-decoration: none;
+	color: black;
+	margin: 5px;
+}
+.iw{
+	color:#4cafd6 ;
+	font-size: 40px;
+}
+.cre{
+	color: #f88cb4;
+}
+.banner{
+	background:url("img/carousel-2.jpg");
+	height: 800px;
+	margin-top:0px ;
+}
+.bate h1{
+	margin: 0px;
+}
+.bate {
+	text-align: center;
+	padding-top:380px ;
+	color: white;
+}
+.bate button{
+	background: #f88cb4;
+	color: white;
+	border-radius: 50px;
+	border: 0px;
+	font-size: 20px;
+	padding: 10px;
+	margin-top:20px;
+}
+.about div{
+	display: inline-block;
+	width: 32%;
+	margin-left: 10px;
+	margin-top: 20px;
+
+	padding: 2px;
+	font-size: 20px;
+	color: gray;
+	text-align: justify;
+}
+.about img{
+	height: 400px;
+	width: 100%;
+	border-radius: 20px;
+}
+.about{
+	padding: 40px;
+}
+.about h2{
+	color: black;
+}
+#our i{
+	font-size: 20px;
+	color: #4cafd6;
+}
+#about button,.ch19 button,#product button{
+	background: #0cbce5;
+	color: white;
+	border-radius: 50px;
+	border: 0px;
+	font-size: 20px;
+	padding: 10px;	
+}
+#our button{
+	background: #f88cb4;
+	color: white;
+	border-radius: 50px;
+	border: 0px;
+	font-size: 20px;
+	padding: 10px;
+}
+.pro div{
+	display: inline-block;
+	width: 45%;
+	height: 300px;
+
+;
+
+}
+.pro img{
+	height: 300px;
+	width: 100%;
+	padding-bottom: 120px;
+	padding-left:10px ;
+	
+	
+}
+.ch19{
+	height: 300px;
+	width: 100%;
+	text-align: center;
+	background: #f88cb4;
+	color: white;
+	margin-left: 0px;
+	padding: 30px;
+	padding-bottom: 0px;
+	padding-top: 10px;
+	
+}
+
+.cr{
+	background: white;
+	color: #0cbce5;
+	padding: 20px;
+	border-radius: 100%;
+	font-size: 40px;	
+	margin-top: 80px;
+	font-weight: bold;
+}
+.arrow{
+	float: right;
+	margin: 0px;
+background: lightgray;
+}
+.arrow i{
+		background: white;
+	color: #f88cb4;
+	border-radius: 100%;
+	padding: 10px;
+
+}
+#Service div{
+	display: inline-block;
+	width: 30%;
+	height: 100%;
+	text-align: center;
+;
+padding: 15px;
+}
+#Service fieldset{
+	background: white;
+	border: 0px;
+}
+#Service{
+	padding: 30px;
+}
+#Service img{
+	border-radius: 100%;
+	border: 14px solid white;
+	box-shadow: -0px 30px 0px #f88cb4 ;
+		margin-bottom: 45px;
+}
+.pot{
+	padding-top:50px ;
+}
+.pot div,.pot img{
+	display: inline-block;
+height: 22%;	
+margin: 0px;
+padding: 0px;
+}
+#product{
+	padding: 60px;
+	text-align: center;
+}
+#product div{
+	display: inline-block;
+	width: 21%;
+	height: 100%;
+	background: white;
+	padding: 10px;
+	padding-top: 0px;
+	margin: 10px;
+;	
+margin-top: 0px;
+border-radius: 10px;
+}
+#product img{
+	border-radius: 100%;
+	border: 10px solid #f88cb4;
+	position: relative;
+	bottom: 20px;
+}
+.pr99{
+	background: #f88cb4 !important;
+	
+
+	font-size: 30px;
+	color: white;
+}
+#product a{
+	color: white;
+	text-decoration: none;
+}
+.team{
+	padding: 80px;
+
+}
+.team div{
+	display: inline-block;
+	width: 32%;
+	height: 100%;
+	text-align: center;
+;		
+}
+.team fieldset{
+	border: 0px;
+	background: white;
+}
+.team img{
+	border-radius: 100%;
+	border: 20px solid #f88cb4;
+}
+.team button{
+	border-radius: 100%;
+	padding: 10px;
+	border:2px solid #4cafd6;
+	color: #4cafd6 !important;
+	background: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+.testimonial{
+	text-align: center;
+	font-size: 20px;
+	padding: 10px 380px;
+}
+.testimonial img{
+	border-radius: 100%;
+}
+.testimonial p{
+	color: gray;
+}
+.testimonial button{
+	border-radius: 100%;
+	background: #4cafd6;
+	margin: 5px;
+	padding: 5px;
+
+	border: 6px double #f88cb4;
+}
+.colan i{
+	font-size: 50px;
+	color:#f88cb4;
+}
+footer{
+	text-align: center;
+	background: white;
+	padding: 30px;
+}
+footer button{
+	border-radius: 100%;
+	font-size: 30px;
+	padding: 10px;
+	margin: 20px;
+	border: 2px solid #4cafd6;
+	background: white;
+	color: #4cafd6;
+	margin-top: 0px;
+}
+footer div div{
+	display: inline-block;
+		padding: 20px;
+}
+.get{
+	border-right: 2px solid black;
+	text-align: right;
+	height: 120px;
+	margin-top: 0px;
+	padding-top:0px ;
+
+}
+footer p{
+	color: gray;
+}
+.focl{
+	color: #f88cb4;
+}
+hr{
+	padding: 1px;
+	border:1px solid #f88cb4 ;
+	background: #4cafd6;
+	width: 60px;
+}
+/*bact to top*/
+.fixed-top-ment {
+    bottom: 10px;
+    display: none;
+    width: 100px;
+    position: fixed;
+    right: 31px;
+    text-align: center;
+    z-index: 9
+}
+
+.fixed-top-ment span {
+    color: #000;
+    display: inline-block;
+    font-size: 11px;
+    padding: 5px 0 0;
+    width: 100px
+}
+
+.fixed-top-ment a i,.fixed-top-ment a strong {
+    box-shadow: 0 0 27px 10px #ccc;
+    height: 35px;
+    background: #b1113e;
+    border-radius: 50%;
+    width: 35px
+}
+
+.fixed-top-ment i,.fixed-top-ment strong {
+    color: #fff;
+    font-size: 30px
+}
